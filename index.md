@@ -11,27 +11,28 @@ Next we used count() to see how many students selected each response (scale from
 
 <img src="./static/imgs/ss/counts.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-*Screenshot of counts from the notebook*
+*Figure 1: Screenshot of counts from the notebook*
 
 
 We then visualized these counts using a histogram to better see the connection.
 
 <img src="./static/imgs/ss/histogram.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-*Visualization of the counts in a histogram*
+*Figure 2: Visualization of the counts in a histogram*
 
 
 We also visualized the relationship between interested_connection answers and major groups using box and whisker plots, to see if only CS majors would be interested in the optional exercises, or if other majors would also be interested.
 
 <img src="./static/imgs/ss/boxplot.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-*Visualization of relationship between major groups and interested_connection answers using box & whisker plots*
+*Figure 3: Visualization of relationship between major groups and interested_connection answers using box & whisker plots*
 
 
 Finally, we visualized the relationship between interest in the class and interest in outside connections, by creating a line plot comparing interested_connections answers to average interesting answers. 
 
 <img src="./static/imgs/ss/lineplot.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-*Visualization of relationship between ratings of interest in class and outside connections*
+
+*Figure 4: Visualization of relationship between ratings of interest in class and outside connections*
 
 
 ## Conclusion
