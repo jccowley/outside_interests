@@ -2,7 +2,7 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-# COMP 110 EX09 Analysis
+# COMP 110 EX09
 
 ## Analysis
 To start the analysis, I seperated columns that were relevant to my idea using select(). in order to focus my analysis. I also used functions such as head(), convert_columns_to_int(), and major_group() to further organize the data and get a general idea of what we would be analyzing. 
@@ -10,25 +10,21 @@ To start the analysis, I seperated columns that were relevant to my idea using s
 To start my analysis, I used count() to see how many students selected each respons 1-7 for the interested_connections question. I noticed that there were more responses ranging from 5-7 than 1-3, demonstrating some interest in the idea of outside connections to the class.
 
 <img src="./static/imgs/ss/counts.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
 *Screenshot of counts from the notebook*
 
 I then visualized these counts using a histogram to better see the connection.
 
 <img src="./static/imgs/ss/histogram.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
 *Visualization of the counts in a histogram*
 
 I also visualized the relationship between interested_connection answers and major groups using box and whisker plots, to see if only CS majors would be interested in the optional exercises, or if other majors would also be interested.
 
 <img src="./static/imgs/ss/boxplot.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
 *Visualization of relationship between major groups and interested_connection answers using box & whisker plots*
 
 Finally, I visualized the relationship between interest in the class and interest in outside connections, by creating a line plot comparing interested_connections answers to average interesting answers. 
 
 <img src="./static/imgs/ss/lineplot.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
 *Visualization of relationship between ratings of interest in class and outside connections*
 
 ## Conclusion
